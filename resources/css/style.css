@@ -84,3 +84,9 @@ html {
   margin: 5px 10px;
   font-size: 20px;
 }
+
+.company-img {
+  cursor: default;
+  height: auto !important;
+  width: 250px !important;
+}
